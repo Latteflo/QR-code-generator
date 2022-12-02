@@ -6,3 +6,5 @@ Overall, I found this project to be a great way to learn more about QR code gene
 
 
 ![Screenshot 2022-12-02 134627](https://user-images.githubusercontent.com/92720989/205296554-76bd531b-0daa-4d93-aaa3-19047dbebcc3.png)
+
+Live: https://qr-code-generator-simple-web-app.netlify.app/
